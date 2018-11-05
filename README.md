@@ -1,13 +1,13 @@
 给Cloud9 IDE用的一键开发环境安装脚本。
 
 ## 使用方法
-`git clone https://github.com/izuolan/env.git`
+`git clone https://github.com/magrco/env.git`
 
 `cd env`
 
-`[sudo] chmod a+x run.sh`
+`chmod a+x run.sh`
 
-`[sudo] ./run.sh`
+`./run.sh`
 
 > 第一次执行请选择安装基础软件包。
 
